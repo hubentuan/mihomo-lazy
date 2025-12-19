@@ -10,7 +10,7 @@ unified-delay: true
 external-controller: 127.0.0.1:9090
 secret: ""
 external-ui-name: zashboard
-external-ui: "./ui"
+external-ui: "./ui/zashboard"
 external-ui-url: "https://gh-proxy.com/https://github.com/Zephyruso/zashboard/archive/refs/heads/gh-pages.zip"
 
 geo-update-interval: 24
